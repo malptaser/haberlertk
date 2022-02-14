@@ -13,7 +13,7 @@ class NewsTableViewCell: UITableViewCell {
     // MARK - UI Elements
     
     @IBOutlet weak var thumbnailImageView: UIImageView!
-    @IBOutlet weak var publishDateLabel: UILabel!
+    @IBOutlet weak var pubDate: UILabel!
     @IBOutlet weak var categoryLabel: UILabel!
     @IBOutlet weak var titleLabel: UILabel!
     

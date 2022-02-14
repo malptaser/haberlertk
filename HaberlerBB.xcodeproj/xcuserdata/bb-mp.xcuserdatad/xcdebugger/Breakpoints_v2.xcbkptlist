@@ -3,4 +3,114 @@
    uuid = "DEA706CE-2BD4-4565-A9E2-30EA4C4CA65C"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HaberlerBB/NewsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "NewsTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - 93340ebc54d08618"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.thumbnailImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - 7d90645b27925264"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.thumbnailImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - 4f3b0615cae41522"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.thumbnailImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - ba4631c91b673eb3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.thumbnailImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - 3d446e6da849e12f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HaberlerBB.NewsTableViewCell"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "6D9FCBFA-EE78-4647-962A-76BDDD878436 - a4a848332602578e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HaberlerBB.NewsTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HaberlerBB.NewsTableViewCell&gt;"
+                  moduleName = "HaberlerBB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bb-mp/haberlertk/HaberlerBB/NewsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

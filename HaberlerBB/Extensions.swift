@@ -6,8 +6,9 @@
 //
 
 
+
 import UIKit
- 
+import Kingfisher
 
 extension UIImageView {
     
@@ -22,7 +23,10 @@ extension UIImageView {
     }
     
     // MARK: - Functions
-     
+    func setImage(fromUrl url: String) {
+        guard let thumbnailUrl = URL(string: url) else { return }
+        kf.setImage(with: thumbnailUrl)
+    }
 }
 
 extension UIApplication {
