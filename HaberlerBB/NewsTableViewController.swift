@@ -16,7 +16,7 @@ class NewsTableViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let currentNewsItem = NewsData[indexPath.row]
-        let cell = tableView.dequeueReusableCell(withIdentifier: "NewsCell") as! NewsTableViewCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "newsCell") as! NewsTableViewCell
         
         cell.thumbnailImageView.setImage(fromUrl: currentNewsItem.thumbnail)
         
@@ -25,7 +25,7 @@ class NewsTableViewController: UITableViewController {
         
         let dateString = formatter.string(from: currentNewsItem.pubDate)
         
-        cell.pubDate.text = dateString
+        cell.publishDateLabel.text = dateString
         cell.titleLabel.text = currentNewsItem.title
         cell.categoryLabel.text = currentNewsItem.categories.joined(separator: " • ")
     
